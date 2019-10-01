@@ -1,0 +1,20 @@
+.container{
+    display: table;
+}
+.div-moves{
+    padding: 15px 15px 15px 15px;
+    width: 45%; 
+    float: left;
+    background-color: #f9fbfc;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgrey; 
+}
+.div-moves1{
+    padding: 15px 15px 15px 15px;
+    background-color: #f9fbfc;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkgrey;    
+    margin-left: 55%;
+}

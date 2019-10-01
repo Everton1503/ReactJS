@@ -1,0 +1,53 @@
+  /* Table months */
+table {
+    background-color: #fff;
+    margin-top: 10px;
+    border-collapse: collapse;
+    border-style: solid;
+    width: 100%;
+    text-align: center;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 8px;
+  }
+    
+  th {
+    background-color: #02aaf5;
+    color: white !important;
+  }
+  .menu{
+      background-color: #fff;
+  }
+  /* Formato das divs */
+ .div-add{
+   margin-top: 20px;
+   padding: 15px 15px 15px 15px;
+   background-color: #f9fbfc;
+   border-style: solid;
+   border-width: 1px;
+   border-color: darkgrey; 
+   max-width: 40%;
+   text-align: center;
+ }
+ .div-months{
+  margin-top: 3%;
+  padding: 15px 15px 15px 15px;
+  background-color: #f9fbfc;
+  border-style: solid;
+  border-width: 1px;
+  border-color: darkgrey; 
+  text-align: center;  
+ }
+ /* Icones */
+ .icon{
+  max-width: 50px;
+  padding: 5px;
+ }
+ /* Button */
+ .btn-primary{
+   background-color: #02aaf5 !important;
+   margin-left: 10px;
+   margin-top: 10px;
+ }
